@@ -1,5 +1,5 @@
 ### INFOs
-# Go there to find git ignore file for any types of project... Unity included ;)
+# Go there https://github.com/github/gitignore to find git ignore file for any types of project... Unity included ;)
 
 # ignore all .o or .a files
 *.[oa]
