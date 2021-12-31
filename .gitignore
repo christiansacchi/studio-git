@@ -1,0 +1,6 @@
+# ignore all .o or .a files
+*.[oa]
+
+# but dont ignore these .a files
+!lol.a
+!asd.a
